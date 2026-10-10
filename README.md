@@ -197,10 +197,10 @@ The intended organization for the complete project is:
 ames-housing-price-prediction/
 ├── src/
 │   └── ames_housing_price_prediction.ipynb
+│   └── model_comparison.ipynb
 ├── models/
 │   ├── gradient_boosting_without_pca.joblib
 │   └── elasticnet_with_pca.joblib
-├── model_comparison.csv
 ├── results_without_pca.csv
 ├── results_with_pca.csv
 ├── requirements.txt
